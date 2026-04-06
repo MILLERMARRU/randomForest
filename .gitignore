@@ -21,3 +21,6 @@ Thumbs.db
 # Variables de entorno
 .env
 .env.local
+
+# Frontend con repositorio propio
+/frontend/
